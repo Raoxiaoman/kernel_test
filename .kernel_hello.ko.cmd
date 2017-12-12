@@ -1,0 +1,1 @@
+cmd_/home/raohui/shareDir/kernel_test/code/kernel_hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/raohui/shareDir/kernel_test/code/kernel_hello.ko /home/raohui/shareDir/kernel_test/code/kernel_hello.o /home/raohui/shareDir/kernel_test/code/kernel_hello.mod.o
